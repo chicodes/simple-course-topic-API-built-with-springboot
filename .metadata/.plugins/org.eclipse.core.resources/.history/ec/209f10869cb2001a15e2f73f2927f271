@@ -1,0 +1,5 @@
+package com.webzifi.springbootstarter.topic;
+
+public class TopicRepository {
+
+}
