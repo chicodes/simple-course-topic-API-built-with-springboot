@@ -1,7 +1,0 @@
-package com.webzifi.springbootstarter.topic;
-
-public interface TopicRepository extends CrudeRepository{
-	
-	
-
-}
