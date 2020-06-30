@@ -1,1 +1,1 @@
-# spring-boot-simple-course-topic-app
+# spring-boot-simple-course-topic-api
